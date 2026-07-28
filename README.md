@@ -1,0 +1,2 @@
+# proyecto_EchoBot_CambioClimatico_Discord_Kodland_phyton
+hola usuario o desarrollador en este repositorio podras encontar un script hecho con el lenguaje de programacion de phyton para un bot de discord que enseña y concientiza sobre el calentamiento global y cambio climatico que tiene un quiz y muchos comandos,lo unico que hay que hacer es hacer una carpeta en vs code y poner el codigo y las imagenes
