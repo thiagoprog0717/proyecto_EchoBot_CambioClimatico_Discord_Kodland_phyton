@@ -21,3 +21,5 @@ muchas clases de el modulo numero 1, 9, 10(aunque igual muchas que no digo aca t
 Los artículos de la guía que me ayudarán durante el desarrollo
 
 lo que necesite fue la pagina de kodland: https://learn.kodland.org/es/my-courses/1218/at-class
+
+comentario extra: si la sintesis de voz deja de funcionar despues de un comando trata de instalar una version un poco mas antigua de pyttsx3
